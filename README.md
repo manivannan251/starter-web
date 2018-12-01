@@ -10,5 +10,6 @@ This example is to show different parts of git repo and various commands
 Sample website with plenty of files for demos
 
 ##Deployment
+This is a simple web project deployment
 
 ##How to contribute
