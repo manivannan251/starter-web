@@ -13,6 +13,7 @@ Sample website with plenty of files for demos
 This is a simple web project deployment
 
 ##How to contribute
+Please fork this repository and issue pull request for review
 
 ###Copywright
 2018 Git.Training
