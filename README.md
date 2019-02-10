@@ -16,4 +16,4 @@ This is a simple web project deployment
 Please fork this repository and issue pull request for review
 
 ###Copywright
-2018 Git.Training
+2018 Git.Training. All rights reserved.
