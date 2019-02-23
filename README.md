@@ -1,7 +1,7 @@
 # Starter Web Project
 
 
-This repository is for showing how Git and GitHub work. Upating for emergency fix after stashing.
+This repository is for showing how Git and GitHub work. Updating for emergency fix after stashing.
 
 
 ##Introduction
